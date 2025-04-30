@@ -56,6 +56,13 @@ export const HeroLeft = styled.div`
     font-weight: 400;
   }
 
+  h4 {
+    font-size: 0.9rem;
+    color: rgb(119, 119, 121);
+    margin-bottom: 1rem;
+    font-weight: 400;
+  }
+
   p {
     font-size: 17px;
     color: #f6f6f6;

@@ -23,12 +23,13 @@ function Hero() {
       <HeroContainer>
         <HeroWrapper>
           <HeroLeft>
-            <h1>Hi, Abdullah Shakeel</h1>
-            <h5>Software Engineer</h5>
+            <h1>Hi, I'm Abdullah Shakeel</h1>
+            <h5>Software Engineer & Founder of ABDULLAH SOLUTIONS</h5>
+            {/* <h4>Solutions That Just Work</h4> */}
             <p>
-              I design and code beautifully simple things, and I love what I do.
+            I’m a self-employed Software Engineer and founder of Abdullah Solutions, crafting innovative, user-friendly software — always focused on delivering <strong>Solutions That Just Work</strong>.
             </p>
-          </HeroLeft>
+          </HeroLeft> 
           <HeroRight>
             <Image
               src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
